@@ -1,6 +1,6 @@
 # Dev MAGRO projeto
 
-Bem-vindo ao meu projeto incrível! Este projeto é destinado a [descreva o propósito do projeto aqui].
+Bem-vindo ao meu projeto incrível! Este projeto é destinado a melhorar habilidades relacionadas a java.
 
 ## Introdução
 
